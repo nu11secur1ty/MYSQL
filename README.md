@@ -1,0 +1,1 @@
+# MYSQL tricks and setuping
