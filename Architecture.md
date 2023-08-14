@@ -13,4 +13,4 @@ InnoDB is the most popular transaction-safe MySQL storage engine. It supports AC
 ## Berkeley DB
 This storage engine also supports transactions but is currently less widely used than InnoDB.
 
-In a survey conducted by MySQL AB (http://dev.mysql.com/tech-resources/quickpolls/storage-engines.html), about 60% of respondents reported using MyISAM as their primary storage engine, while 37% used InnoDB and about 1% used
+In a survey conducted by MySQL AB (https://dev.mysql.com/doc/refman/8.0/en/pluggable-storage-overview.html), about 60% of respondents reported using MyISAM as their primary storage engine, while 37% used InnoDB and about 1% used
